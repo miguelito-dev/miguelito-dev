@@ -17,6 +17,7 @@ Atualmente, estou me aprofundando em **desenvolvimento front-end**, com foco em 
     title="Linkedin Miguel Almeida" 
     width="40" 
     alt="LinkedIn Miguel Almeida"
+    target="_blank"
   />
 </a>
 
