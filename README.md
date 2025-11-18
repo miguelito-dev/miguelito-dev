@@ -81,5 +81,5 @@ Atualmente, estou me aprofundando em **desenvolvimento front-end**, com foco em 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelito-dev&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelito-dev&theme=one-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
